@@ -1,0 +1,17 @@
+{
+    "name": "milki93/php",
+    "authors": [
+        {
+            "name": "Milki Dida",
+            "email": "milkidida131@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\":"./"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
